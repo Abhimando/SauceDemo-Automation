@@ -12,12 +12,12 @@ Automation testing project for https://www.saucedemo.com/
 ## Technology Used
 - Python
 - Playwright
-- Chrome Browser
+- Chromium Browser
 
 ## Requirements
 - Python Installed
 - Playwright Installed
-- Chrome Browser
+- Chromium Browser
 
 ## Install Playwright
 
